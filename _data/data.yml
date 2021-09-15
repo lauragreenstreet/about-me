@@ -42,10 +42,7 @@ education:
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: |
     assignments:
       - title: Modelling Connectivity of Global Protected Areas
         link: "#connectivity"
@@ -74,14 +71,32 @@ projects:
             of gene expression differences between populations.
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro:
     papers:
       - title: Functional Connectivity of the World’s Protected Areas
-        link: "#"
+        link: "https://doi.org/10.1101/2021.08.16.456503"
         authors: Brennan, A., R. Naidoo, L. Greenstreet, Z. Mehrabi, N. Ramankutty,  C. Kremen
+        conference: Preprint. 2021.
+        
+      - title: Optimal transport analysis reveals trajectories in steady-state systems
+        link: "https://doi.org/10.1101/2021.08.16.456503"
+        authors: Zhang, S., A. Afanassiev, L. Greenstreet, T. Matsumoto, G. Schiebinger
+        conference: Preprint. 2021.
+
+      - title: A single cell Arabidopsis root atlas reveals developmental trajectories in wild type and cell identity mutants
+        link: "https://www.biorxiv.org/content/10.1101/2020.06.29.178863v1"
+        authors: Shahan, R., C. Hsu, T.M. Nolan, B.J. Cole, W.T. Taylor, L. Greenstreet, et al.
+        conference: Preprint. 2021.
+        
+      - title: Hematopoiesis at single cell resolution spanning human development and maturation
+        link: "https://www.biorxiv.org/content/10.1101/2021.08.25.457678v1"
+        authors: Hojun, L., J. Ezike, A. Afanassiev, L. Greenstreet, et al.
+        conference: Preprint. 2021.
+        
+      - title: Developmental Single-cell transcriptomics in the Lytechinus variegatus Sea Urchin Embryo
+        link: "https://www.biorxiv.org/content/10.1101/2020.06.29.178863v1"
+        authors: Massri, A.J., L. Greenstreet, A. Afanassiev, A. Berrio Escobar, G.M. Wray, G. Schiebinger, D.R. McClay
+        conference: Development. 2021.
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
