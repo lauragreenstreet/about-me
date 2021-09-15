@@ -42,11 +42,30 @@ education:
 
 projects:
     title: Projects
-    intro:
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: "Modelling Connectivity of Global Protected Areas"
-        link: "#connectivity"
-        tagline: "Large mammals often require more space than a single reserve or protected area and having connected protected areas is key for gene dispersal. It is important to understand how connected protected areas are to each other to identify critical areas for maintaining connectivity and for prioritization it is important to get comparable values for areas around the world. I worked with Dr. Claire Kremen on the first global study of resistance-based connectivity which takes into account the many possible paths across a landscape. Our results helped identify areas that are critical for connectivity but remain unprotected and compared the overlap of these areas with existing conservation priority schemes."
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
         
 publications:
     title: Publications/Preprints
