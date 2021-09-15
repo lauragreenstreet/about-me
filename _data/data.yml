@@ -60,28 +60,28 @@ publications:
     title: Publications/Preprints
     intro:
     papers:
-      - title: Functional Connectivity of the World’s Protected Areas
-        link: "#"
+      - title: "Functional Connectivity of the World’s Protected Areas"
+        link: "#connectivity-2021"
         authors: Brennan, A., R. Naidoo, L. Greenstreet, Z. Mehrabi, N. Ramankutty,  C. Kremen
         conference: "Preprint. 2021. <a href="https://doi.org/10.1101/2021.08.16.456503">https://doi.org/10.1101/2021.08.16.456503</a>"
 
-      - title: Optimal transport analysis reveals trajectories in steady-state systems
-        link: "#"
+      - title: "Optimal transport analysis reveals trajectories in steady-state systems"
+        link: "#ot-eq-2021"
         authors: Zhang, S., A. Afanassiev, L. Greenstreet, T. Matsumoto, G. Schiebinger
         conference: "Preprint. 2021. <a href="https://doi.org/10.1101/2021.08.16.456503">https://doi.org/10.1101/2021.08.16.456503</a>"
 
-      - title: A single cell Arabidopsis root atlas reveals developmental trajectories in wild type and cell identity mutants
-        link: "#"
+      - title: "A single cell Arabidopsis root atlas reveals developmental trajectories in wild type and cell identity mutants"
+        link: "#root-2021"
         authors: Shahan, R., C. Hsu, T.M. Nolan, B.J. Cole, W.T. Taylor, L. Greenstreet, et al.
         conference: "Preprint. 2021. <a href="https://www.biorxiv.org/content/10.1101/2020.06.29.178863v1">https://www.biorxiv.org/content/10.1101/2020.06.29.178863v1</a>"
 
-      - title: Hematopoiesis at single cell resolution spanning human development and maturation
-        link: "#"
+      - title: "Hematopoiesis at single cell resolution spanning human development and maturation"
+        link: "#hematopoiesis-2021"
         authors: Hojun, L., J. Ezike, A. Afanassiev, L. Greenstreet, et al.
         conference: "Preprint. 2021. <a href="https://www.biorxiv.org/content/10.1101/2021.08.25.457678v1">https://www.biorxiv.org/content/10.1101/2021.08.25.457678v1</a>"
 
-      - title: Developmental Single-cell transcriptomics in the Lytechinus variegatus Sea Urchin Embryo
-        link: "#"
+      - title: "Developmental Single-cell transcriptomics in the Lytechinus variegatus Sea Urchin Embryo"
+        link: "#urchin-2021"
         authors: Massri, A.J., L. Greenstreet, A. Afanassiev, A. Berrio Escobar, G.M. Wray, G. Schiebinger, D.R. McClay
         conference: "Development. 2021. <a href="{https://www.biorxiv.org/content/10.1101/2020.06.29.178863v1">{https://www.biorxiv.org/content/10.1101/2020.06.29.178863v1</a>"
 
