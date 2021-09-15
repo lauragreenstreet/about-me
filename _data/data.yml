@@ -27,7 +27,13 @@ sidebar:
 
 career-profile:
     title: About Me
-    summary: "I am interested in problems in artificial intelligence and optimization that arise from other disciplines of science. I am particularly passionate about problems with social and enviromental impact and am excited to working with Dr. Carla Gomes on problems in computational sustainability. These projects are often data-intensive and I enjoy working with large datasets from cleaning to visualization to better understand the problem. My previous research projects include mapping connectivity of protected areas at a global scale, mapping and identifing gaps in electric vehicle infrastructure, and using optimization to understand cellular development trajectories."
+    summary: |
+      I am interested in problems in artificial intelligence and optimization that arise from other disciplines of science.
+      I am particularly passionate about problems with social and enviromental impact and am excited to be working with
+      Dr. Carla Gomes on problems in computational sustainability. These projects are often data-intensive and I enjoy
+       working with large datasets from cleaning to visualization to better understand the problem. My previous research
+       projects include mapping connectivity of protected areas at a global scale, mapping and identifing gaps in electric
+       vehicle infrastructure, and using optimization to understand cellular development trajectories."
 education:
     - degree: MSc in Computer Science
       university: Cornell University
