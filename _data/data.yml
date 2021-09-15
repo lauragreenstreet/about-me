@@ -69,7 +69,7 @@ projects:
         
 publications:
     title: Publications/Preprints
-    intro:
+    intro: Publications and preprints.
     papers:
       - title: "Functional Connectivity of the World’s Protected Areas"
         link: "#connectivity-2021"
