@@ -47,15 +47,7 @@ projects:
       - title: "Modelling Connectivity of Global Protected Areas"
         link: "#connectivity"
         tagline: "Large mammals often require more space than a single reserve or protected area and having connected protected areas is key for gene dispersal. It is important to understand how connected protected areas are to each other to identify critical areas for maintaining connectivity and for prioritization it is important to get comparable values for areas around the world. I worked with Dr. Claire Kremen on the first global study of resistance-based connectivity which takes into account the many possible paths across a landscape. Our results helped identify areas that are critical for connectivity but remain unprotected and compared the overlap of these areas with existing conservation priority schemes."
-
-      - title: "Mapping and Identifying Gaps in Electric Vehicle Infrastructure"
-        link: "#evs"
-        tagline: "Through the UBC Data Science Institute's Data Science for Social Good Program I worked with the City of Surrey to support their goal of getting 100% of vehicles in the city to be electric by 2050. I helped map the existing infrastructure and as well as integrate socio-economic data into an app for city planners. I also worked on a model for placing EV chargers that used traffic and census data to provide equal access to residents across the city based on their driving patterns. See the full project report <a href="https://dsi.ubc.ca/sites/default/files/dssg-finalreport-surrey-ev.pdf">here</a>"
-
-      - title: "Optimization for Developmental Trajectory Reconstruction in Single-Cell Data"
-        link: "#devot"
-        tagline: "Single-cell RNA-sequencing has allowed researchers to get snapshots of gene expression in individual cells. However, as the measurement process is destructive, there is a need for techniques that help understand develop from single snapshots. Optimal transport is an optimization method that finds the most efficient way to turn one distriubtion into another. We can use optimal transport on cell populations to construct trajectories of cells across time by minimizing the total distance travelled by cells in gene epxression space. I worked with Dr. Geoffery Schiebinger on a variety of projects applying optimal transport to single cell systems, including understanding trajectories in equilibrium systems and downstream analysis of gene expression differences between populations."
-
+        
 publications:
     title: Publications/Preprints
     intro:
