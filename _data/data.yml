@@ -68,34 +68,26 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
         
 publications:
-    title: Publications/Preprints
-    intro: Publications and preprints.
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
     papers:
-      - title: "Functional Connectivity of the World’s Protected Areas"
-        link: "#connectivity-2021"
-        authors: Brennan, A., R. Naidoo, L. Greenstreet, Z. Mehrabi, N. Ramankutty,  C. Kremen
-        conference: "Preprint. 2021. <a href="https://doi.org/10.1101/2021.08.16.456503">https://doi.org/10.1101/2021.08.16.456503</a>"
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
 
-      - title: "Optimal transport analysis reveals trajectories in steady-state systems"
-        link: "#ot-eq-2021"
-        authors: Zhang, S., A. Afanassiev, L. Greenstreet, T. Matsumoto, G. Schiebinger
-        conference: "Preprint. 2021. <a href="https://doi.org/10.1101/2021.08.16.456503">https://doi.org/10.1101/2021.08.16.456503</a>"
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: "A single cell Arabidopsis root atlas reveals developmental trajectories in wild type and cell identity mutants"
-        link: "#root-2021"
-        authors: Shahan, R., C. Hsu, T.M. Nolan, B.J. Cole, W.T. Taylor, L. Greenstreet, et al.
-        conference: "Preprint. 2021. <a href="https://www.biorxiv.org/content/10.1101/2020.06.29.178863v1">https://www.biorxiv.org/content/10.1101/2020.06.29.178863v1</a>"
-
-      - title: "Hematopoiesis at single cell resolution spanning human development and maturation"
-        link: "#hematopoiesis-2021"
-        authors: Hojun, L., J. Ezike, A. Afanassiev, L. Greenstreet, et al.
-        conference: "Preprint. 2021. <a href="https://www.biorxiv.org/content/10.1101/2021.08.25.457678v1">https://www.biorxiv.org/content/10.1101/2021.08.25.457678v1</a>"
-
-      - title: "Developmental Single-cell transcriptomics in the Lytechinus variegatus Sea Urchin Embryo"
-        link: "#urchin-2021"
-        authors: Massri, A.J., L. Greenstreet, A. Afanassiev, A. Berrio Escobar, G.M. Wray, G. Schiebinger, D.R. McClay
-        conference: "Development. 2021. <a href="{https://www.biorxiv.org/content/10.1101/2020.06.29.178863v1">{https://www.biorxiv.org/content/10.1101/2020.06.29.178863v1</a>"
-
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
