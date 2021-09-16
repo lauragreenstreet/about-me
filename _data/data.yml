@@ -23,7 +23,7 @@ career-profile:
       I am interested in problems in artificial intelligence and optimization that arise from other areas of science.
       I am particularly passionate about problems with social and enviromental impact and am excited to be working with
       Dr. Carla Gomes on problems in computational sustainability. My projects are often data-intensive and I enjoy
-       working with large datasets from cleaning through analysis."
+      working with large datasets from cleaning through analysis."
 education:
     - degree: MSc in Computer Science
       university: Cornell University
@@ -42,29 +42,29 @@ projects:
         link: "#connectivity"
         tagline: |
             Large mammals often require more space than a single protected area and having connected protected areas
-            is key for gene dispersal. It is important to understand the connectivity of the entire protected area
-            network to prioritize areas for conservation. However, previous studies have focused at the local or national
-            levels. I worked with Dr. Claire Kremen on the first global study of resistance-based connectivity which
-            takes into  account the many possible paths across a landscape. Our results helped identify areas that are
-            critical for connectivity but remain unprotected and compared the overlap of these areas with existing
-            conservation prioritizations.
+            is key for gene dispersal. It is important to understand which protected areas are highly connected and
+            which are isolated or at risk of isolation. I worked with Dr. Claire Kremen on the first global study of
+            resistance-based connectivity which takes into  account the many possible paths across a landscape. Our
+            results helped identify areas that are critical for connectivity but remain unprotected and we compared
+            the overlap of these areas with existing conservation prioritizations.
 
       - title: Mapping and Identifying Gaps in Electric Vehicle Infrastructure
         link: "#evs"
         tagline: |
             Through the UBC Data Science Institute's Data Science for Social Good Program, I worked with the City of Surrey
-            to support their goal of having 100% electric vehicles on the road by 2050. I helped map the existing infrastructure
-            as well as integrated socio-economic data into an app for city planners. I also worked on a model for placing EV
-            chargers that used traffic and census data to provide equal access to residents across the city based on their driving patterns.
-            See the full project report <a href="https://dsi.ubc.ca/sites/default/files/dssg-finalreport-surrey-ev.pdf">here</a>.
+            to support their goal of having 100% electric vehicles on the road by 2050. I helped map existing infrastructure
+            and developed the database for an app that lets city planners explore electric vehicle infrastructure as well as
+            socio-economic data. I also worked on a model for placing EV chargers that used traffic and census data to provide
+            equal access to residents across the city based on their driving patterns. The full project report is available
+            <a href="https://dsi.ubc.ca/sites/default/files/dssg-finalreport-surrey-ev.pdf">here</a>.
 
       - title: Optimization for Developmental Trajectory Reconstruction in Single-Cell Data
         link: "#devot"
         tagline: |
             Single-cell RNA-sequencing has allowed researchers to get snapshots of gene expression in individual cells. However,
-            as the measurement process is destructive, there is a need for techniques that help understand development from
-            single snapshots. Optimal transport is an optimization method that finds the most efficient way to turn one distriubtion
-            into another. We can use optimal transport on cell populations to construct trajectories of cells across time by
+            as the sequencing process is destructive, there is a need for methods that help understand development from single snapshots.
+            Optimal transport is an optimization method that finds the most efficient way to turn one distriubtion into another.
+            We can use optimal transport on cell populations to construct trajectories of cells across time by
             minimizing the total distance travelled by cells in gene epxression space. I worked with Dr. Geoffery Schiebinger on a
             variety of projects applying optimal transport to single cell systems, including understanding trajectories in equilibrium
             systems and downstream analysis of gene expression differences between populations.
@@ -79,13 +79,8 @@ publications:
         conference: Preprint. 2021.
 
       - title: Optimal transport analysis reveals trajectories in steady-state systems
-        link: "http://dx.doi.org/10.1101/2020.11.12.380675"
+        link: "https://www.biorxiv.org/content/10.1101/2021.03.02.433630v2"
         authors: Zhang, S., A. Afanassiev, L. Greenstreet, T. Matsumoto, G. Schiebinger
-        conference: Preprint. 2021.
-
-      - title: A single cell Arabidopsis root atlas reveals developmental trajectories in wild type and cell identity mutants
-        link: "https://www.biorxiv.org/content/10.1101/2020.06.29.178863v1"
-        authors: Shahan, R., C. Hsu, T.M. Nolan, B.J. Cole, W.T. Taylor, L. Greenstreet, et al.
         conference: Preprint. 2021.
 
       - title: Hematopoiesis at single cell resolution spanning human development and maturation
