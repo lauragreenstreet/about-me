@@ -70,7 +70,7 @@ projects:
             systems and downstream analysis of gene expression differences between populations.
 
 publications:
-    title: Publications
+    title: Publications/Presentations
     intro:
     papers:
       - title: Functional Connectivity of the World’s Protected Areas
@@ -92,6 +92,10 @@ publications:
         link: "https://doi.org/10.1242/dev.198614"
         authors: Massri, A.J., L. Greenstreet, A. Afanassiev, A. Berrio Escobar, G.M. Wray, G. Schiebinger, D.R. McClay
         conference: Development. 2021.
+
+      - title: Developing a Data-Driven Electric Vehicle Strategy in Surrey, BC
+        authors: Greenstreet, L., E. Lai
+        conference: SigKDD: Social Impact Session. 2020.
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
