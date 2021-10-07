@@ -21,7 +21,7 @@ career-profile:
     title: About Me
     summary: |
       I am interested in problems in artificial intelligence and optimization that arise from other areas of science.
-      I am particularly passionate about problems with social and enviromental impact and am excited to be working with
+      I am particularly passionate about problems with social and environmental impact and am excited to be working with
       Dr. Carla Gomes on problems in computational sustainability. My projects are often data-intensive and I enjoy
       working with large datasets from cleaning through analysis.
 education:
@@ -43,7 +43,7 @@ projects:
             Large mammals often require more space than a single protected area and having connected protected areas
             is key for gene dispersal. It is important to understand which protected areas are highly connected and
             which are isolated or at risk of isolation. I worked with Dr. Claire Kremen on the first global study of
-            resistance-based connectivity which takes into  account the many possible paths across a landscape. Our
+            resistance-based connectivity which takes into account the many possible paths across a landscape. Our
             results helped identify areas that are critical for connectivity but remain unprotected and we compared
             the overlap of these areas with existing conservation prioritization schemes.
 
@@ -60,9 +60,9 @@ projects:
         tagline: |
             Single-cell RNA-sequencing has allowed researchers to get snapshots of gene expression in individual cells. However,
             as the sequencing process is destructive, there is a need for methods that help understand development from single snapshots.
-            Optimal transport is an optimization method that finds the most efficient way to turn one distriubtion into another.
+            Optimal transport is an optimization method that finds the most efficient way to turn one distribution into another.
             We can use optimal transport on cell populations to construct trajectories of cells across time by
-            minimizing the total distance travelled by cells in gene epxression space. I worked with Dr. Geoffery Schiebinger on a
+            minimizing the total distance travelled by cells in gene expression space. I worked with Dr. Geoffery Schiebinger on a
             variety of projects applying optimal transport to single cell systems, including understanding trajectories in equilibrium
             systems and downstream analysis of gene expression differences between populations.
 
