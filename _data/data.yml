@@ -76,9 +76,9 @@ publications:
         conference: Preprint, 2021.
 
       - title: Optimal transport analysis reveals trajectories in steady-state systems
-        link: "https://www.biorxiv.org/content/10.1101/2021.03.02.433630v2"
+        link: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009466"
         authors: Zhang, S., A. Afanassiev, L. Greenstreet, T. Matsumoto, G. Schiebinger
-        conference: Preprint, 2021.
+        conference: PLOS Computational Biology, 2021.
 
       - title: Hematopoiesis at single cell resolution spanning human development and maturation
         link: "https://www.biorxiv.org/content/10.1101/2021.08.25.457678v1"
