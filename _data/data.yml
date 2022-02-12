@@ -20,10 +20,10 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      I am interested in problems in artificial intelligence and optimization that arise from other areas of science.
-      I am particularly passionate about problems with social and environmental impact and am excited to be working with
-      Dr. Carla Gomes on problems in computational sustainability. My projects are often data-intensive and I enjoy
-      working with large datasets from cleaning through analysis.
+      I am interested in  artificial intelligence and optimization and am particularly passionate about problems with social and
+      environmental impact. I am currently a graduate student in Computer Science at Cornell working with Dr. Carla Gomes on
+      problems in computational sustainability. My projects are often data-intensive and data analysis and visualization are often
+      important components of my research.
 education:
     - degree: MSc in Computer Science
       university: Cornell University
@@ -86,7 +86,7 @@ publications:
         conference: Preprint, 2021.
 
       - title: A single cell Arabidopsis root atlas reveals developmental trajectories in wild type and cell identity mutants
-        link: https://www.biorxiv.org/content/10.1101/2020.06.29.178863v1
+        link: "https://www.sciencedirect.com/science/article/pii/S1534580722000338"
         authors: Shahan R., C. Hsu, T.M. Nolan, B.J. Cole, I.W. Taylor, L. Greenstreet, et al.
         conference: Developmental Cell, 2021.
 
