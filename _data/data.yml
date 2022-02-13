@@ -22,8 +22,7 @@ career-profile:
     summary: |
       I am interested in  artificial intelligence and optimization and am particularly passionate about problems with social and
       environmental impact. I am currently a graduate student in Computer Science at Cornell working with Dr. Carla Gomes on
-      problems in computational sustainability. My projects are often data-intensive and also incorporate data visualization
-      and analysis.
+      problems in computational sustainability. My projects are often data-intensive, incorporating data vizualization and analysis.
 education:
     - degree: MSc in Computer Science
       university: Cornell University
