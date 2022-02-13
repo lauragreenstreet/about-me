@@ -22,8 +22,8 @@ career-profile:
     summary: |
       I am interested in  artificial intelligence and optimization and am particularly passionate about problems with social and
       environmental impact. I am currently a graduate student in Computer Science at Cornell working with Dr. Carla Gomes on
-      problems in computational sustainability. My projects are often data-intensive and data analysis and visualization are often
-      important components of my research.
+      problems in computational sustainability. My projects are often data-intensive and also incorporate data visualization
+      and analysis.
 education:
     - degree: MSc in Computer Science
       university: Cornell University
@@ -50,8 +50,8 @@ projects:
       - title: Mapping and Identifying Gaps in Electric Vehicle Infrastructure
         tagline: |
             Through the UBC Data Science Institute's Data Science for Social Good Program, I worked with the City of Surrey
-            to support their goal of having 100% electric vehicles on the road by 2050. I helped map existing infrastructure
-            and developed the database for an app that lets city planners explore electric vehicle infrastructure as well as
+            towards reaching 100% electric vehicles in the city by 2050. I helped map existing infrastructure
+            and developed the database for an app that lets city planners explore electric vehicle infrastructure and
             socio-economic data. I also worked on a model for placing EV chargers that used traffic and census data to provide
             equal access to residents across the city based on their driving patterns. The full project report is available
             <a href="https://dsi.ubc.ca/sites/default/files/dssg-finalreport-surrey-ev.pdf">here</a>.
@@ -59,7 +59,7 @@ projects:
       - title: Optimization for Developmental Trajectory Reconstruction in Single-Cell Data
         tagline: |
             Single-cell RNA-sequencing has allowed researchers to get snapshots of gene expression in individual cells. However,
-            as the sequencing process is destructive, there is a need for methods that help understand development from static snapshots.
+            as the sequencing process is destructive, there is a need for methods that understand developmental trajectories from static snapshots.
             Optimal transport is an optimization method that finds the most efficient way to turn one distribution into another.
             We can use optimal transport on cell populations to construct trajectories of cells across time by
             minimizing the total distance travelled by cells in gene expression space. I worked with Dr. Geoffery Schiebinger on a
