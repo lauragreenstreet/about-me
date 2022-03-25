@@ -39,28 +39,28 @@ projects:
     assignments:
       - title: Modelling Connectivity of Global Protected Areas
         tagline: |
-            Large mammals often require more space than a single protected area and having connected protected areas
-            is key for gene dispersal. It is important to understand which protected areas are isolated or at risk of
-            isolation. I worked with Dr. Claire Kremen on the first global study of
-            resistance-based connectivity, which takes into account the many possible paths across a landscape. Our
-            results identified areas that are critical for connectivity but remain unprotected and we compared
-            the overlap of these areas with existing conservation prioritization schemes.
+                Large mammals often require more space than a single protected area and having connected protected areas
+                is key for gene dispersal. It is important to understand which protected areas are isolated or at risk of
+                isolation. I worked with Dr. Claire Kremen on the first global study of
+                resistance-based connectivity, which takes into account the many possible paths across a landscape. Our
+                results identified areas that are critical for connectivity but remain unprotected and we compared
+                the overlap of these areas with existing conservation prioritization schemes.
 
       - title: Mapping and Identifying Gaps in Electric Vehicle Infrastructure
         tagline: |
-            Through the UBC Data Science Institute's Data Science for Social Good Program, I worked with the City of Surrey
-            towards reaching 100% electric vehicles in the city by 2050. I helped map existing infrastructure
-            and developed the database for an app that lets city planners explore electric vehicle infrastructure and
-            socio-economic data. I also worked on a model for placing EV chargers that used traffic and census data to provide
-            equal access to residents across the city based on their driving patterns. The full project report is available
-            <a href="https://dsi.ubc.ca/sites/default/files/dssg-finalreport-surrey-ev.pdf">here</a>.
+                Through the UBC Data Science Institute's Data Science for Social Good Program, I worked with the City of Surrey
+                towards reaching 100% electric vehicles in the city by 2050. I helped map existing infrastructure
+                and developed the database for an app that lets city planners explore electric vehicle infrastructure and
+                socio-economic data. I also worked on a model for placing EV chargers that used traffic and census data to provide
+                equal access to residents across the city based on their driving patterns. The full project report is available
+                <a href="https://dsi.ubc.ca/sites/default/files/dssg-finalreport-surrey-ev.pdf">here</a>.
 
      - title: Constructing Developmental Trajectories in Single-Cell Data
        tagline: |
-           Single-cell RNA-sequencing has allowed researchers to get snapshots of gene expression in individual cells.
-           However, as the sequencing process is destructive, there is a need for methods to understand developmental
-           trajectories. I worked with Dr. Geoffrey Schiebinger on a variety of projects using optimization to construct
-           developmental trajectories and understand temporal changes in gene regulation.
+               Single-cell RNA-sequencing has allowed researchers to get snapshots of gene expression in individual cells.
+               However, as the sequencing process is destructive, there is a need for methods to understand developmental
+               trajectories. I worked with Dr. Geoffrey Schiebinger on a variety of projects using optimization to construct
+               developmental trajectories and understand temporal changes in gene regulation.
 
 
 publications:
