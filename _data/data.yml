@@ -45,7 +45,7 @@ projects:
             resistance-based connectivity, which takes into account the many possible paths across a landscape. Our
             results identified areas that are critical for connectivity but remain unprotected and we compared
             the overlap of these areas with existing conservation prioritization schemes.
-      - title: Spatial and Temporal Single-cell Transcriptomics
+      - title: Constructing Developmental Trajectories for Single-Cell Data
         tagline: |
            Single-cell RNA-sequencing has allowed researchers to get snapshots of gene expression in individual cells.
            However, as the sequencing process is destructive, there is a need for methods to understand developmental
