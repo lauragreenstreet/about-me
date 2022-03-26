@@ -50,7 +50,7 @@ projects:
                   Single-cell RNA-sequencing has allowed researchers to get snapshots of gene expression in individual cells.
                   However, as the sequencing process is destructive and disassociates cells within a tissue, there is a need
                   for methods to understand how development occurs in both space in time. I worked with Dr. Geoffrey Schiebinger
-                  on projects applying optimal transport to understand developmental trajectories as well helped develop GPS-Seq,
+                  on projects applying optimal transport to understand developmental trajectories and helped develop GPS-Seq,
                   a manifold-learning approach to spatial transcriptomics that allows cellular positions to be reconstructed
                   without the use of imaging.
       - title: Mapping and Identifying Gaps in Electric Vehicle Infrastructure
