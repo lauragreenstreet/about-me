@@ -52,7 +52,7 @@ projects:
                   for methods to understand how development occurs in both space in time. I worked with Dr. Geoffrey Schiebinger
                   on projects applying optimal transport to understand developmental trajectories as well helped develop GPS-Seq,
                   a manifold-learning approach to spatial transcriptomics that allows cellular positions to be reconstructed
-                  without the using of imaging.
+                  without the use of imaging.
       - title: Mapping and Identifying Gaps in Electric Vehicle Infrastructure
         tagline: |
             Through the UBC Data Science Institute's Data Science for Social Good Program, I worked with the City of Surrey
