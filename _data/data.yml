@@ -66,15 +66,15 @@ publications:
     title: Publications/Preprints
     intro:
     papers:
+      - title: Functional Connectivity of the World’s Protected Areas
+        link: "https://doi.org/10.1126/science.abl8974"
+        authors: Brennan, A., R. Naidoo, L. Greenstreet, Z. Mehrabi, N. Ramankutty, C. Kremen
+        conference: Science, 2022.
+
       - title: A DNA-based global positioning system — a theoretical framework for large-scale spatial genomics
         link: "https://doi.org/10.1101/2022.03.22.485380"
         authors: Greenstreet, L., A. Afanassiev, Y. Kijima, M. Heitz, S. Ishiguro, S. King, et al.
         conference: Preprint, 2022.
-
-      - title: Functional Connectivity of the World’s Protected Areas
-        link: "https://doi.org/10.1101/2021.08.16.456503"
-        authors: Brennan, A., R. Naidoo, L. Greenstreet, Z. Mehrabi, N. Ramankutty, C. Kremen
-        conference: Preprint, 2021.
 
       - title: Optimal transport analysis reveals trajectories in steady-state systems
         link: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009466"
