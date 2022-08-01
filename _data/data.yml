@@ -71,6 +71,11 @@ publications:
         authors: Brennan, A., R. Naidoo, L. Greenstreet, Z. Mehrabi, N. Ramankutty, C. Kremen
         conference: Science, 2022.
 
+     - title: Efficient and Optimal Fixed-Time Regret with Two Experts
+       link: "https://doi.org/10.48550/arXiv.2203.07577"
+       authors: Greenstreet, L., N.J.A. Harvey, V. Sanches Portella
+       conference: ALT, 2022.
+
       - title: A DNA-based global positioning system — a theoretical framework for large-scale spatial genomics
         link: "https://doi.org/10.1101/2022.03.22.485380"
         authors: Greenstreet, L., A. Afanassiev, Y. Kijima, M. Heitz, S. Ishiguro, S. King, et al.
@@ -80,6 +85,11 @@ publications:
         link: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009466"
         authors: Zhang, S., A. Afanassiev, L. Greenstreet, T. Matsumoto, G. Schiebinger
         conference: PLOS Computational Biology, 2021.
+
+      - title: Single Cell Analysis Elucidates the Maturation of Human Stem and Progenitor Cell Function from Fetal through Adult Hematopoiesis
+        link: "https://doi.org/10.1182/blood-2021-151090"
+        authors: Li, H., J. Ezike, A. Afanassiev, L. Greenstreet, et al.
+        conference: Blood, 2021.
 
       - title: A single cell Arabidopsis root atlas reveals developmental trajectories in wild type and cell identity mutants
         link: "https://www.sciencedirect.com/science/article/pii/S1534580722000338"
