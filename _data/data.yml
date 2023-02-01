@@ -20,9 +20,10 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      I am interested in artificial intelligence and optimization and am particularly passionate about problems with social and
-      environmental impact. I am currently a graduate student in Computer Science at Cornell working with Dr. Carla Gomes on
-      problems in computational sustainability. My projects are often data-intensive, incorporating data visualization and analysis.
+      I am a second-year masters student transitioning into the PhD program in Cornell’s Department of Computer Science.
+      I work with Dr. Carla Gomes to develop AI and optimization methods with sustainability applications. Previously,
+      I worked with Dr. Claire Kremen to scale an analysis of functional connectivity to the global level and with
+      Dr. Geoffrey Schiebinger to develop optimization methods for single-cell genomics.
 education:
     - degree: MSc in Computer Science
       university: Cornell University
