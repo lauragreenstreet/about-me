@@ -20,12 +20,11 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      I am a second-year masters student transitioning into the PhD program in Cornell’s Department of Computer Science.
-      I work with Dr. Carla Gomes to develop AI and optimization methods with sustainability applications. Previously,
+      I am a PhD student at Cornell working with Dr. Carla Gomes to develop AI and optimization methods with sustainability applications. Previously,
       I worked with Dr. Claire Kremen to scale an analysis of functional connectivity to the global level and with
       Dr. Geoffrey Schiebinger to develop optimization methods for single-cell genomics.
 education:
-    - degree: MSc in Computer Science
+    - degree: PhD in Computer Science
       university: Cornell University
       time: 2021 - Present
       details:
@@ -56,9 +55,14 @@ projects:
                   without the use of imaging.
 
 publications:
-    title: Publications/Preprints
+    title: Selected Publications
     intro:
     papers:
+      - title: Functional Connectivity of the World’s Protected Areas
+        link: "https://doi.org/10.1126/science.abl8974"
+        authors: Brennan, A., R. Naidoo, L. Greenstreet, Z. Mehrabi, N. Ramankutty, C. Kremen
+        conference: Science, 2022.
+
       - title: Functional Connectivity of the World’s Protected Areas
         link: "https://doi.org/10.1126/science.abl8974"
         authors: Brennan, A., R. Naidoo, L. Greenstreet, Z. Mehrabi, N. Ramankutty, C. Kremen
@@ -68,11 +72,6 @@ publications:
         link: "https://doi.org/10.48550/arXiv.2203.07577"
         authors: Greenstreet, L., N.J.A. Harvey, V. Sanches Portella
         conference: ALT, 2022.
-
-      - title: A DNA-based global positioning system — a theoretical framework for large-scale spatial genomics
-        link: "https://doi.org/10.1101/2022.03.22.485380"
-        authors: Greenstreet, L., A. Afanassiev, Y. Kijima, M. Heitz, S. Ishiguro, S. King, et al.
-        conference: Preprint, 2022.
 
       - title: Optimal transport analysis reveals trajectories in steady-state systems
         link: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009466"
