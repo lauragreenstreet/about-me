@@ -20,7 +20,7 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      I am a PhD student at Cornell working with Dr. Carla Gomes to develop AI and optimization methods with sustainability applications. Previously,
+      I am a PhD student at Cornell developing AI and optimization methods with sustainability applications. Previously,
       I worked with Dr. Claire Kremen to scale an analysis of functional connectivity to the global level and with
       Dr. Geoffrey Schiebinger to develop optimization methods for single-cell genomics.
 education:
@@ -77,21 +77,6 @@ publications:
         link: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009466"
         authors: Zhang, S., A. Afanassiev, L. Greenstreet, T. Matsumoto, G. Schiebinger
         conference: PLOS Computational Biology, 2021.
-
-      - title: Single Cell Analysis Elucidates the Maturation of Human Stem and Progenitor Cell Function from Fetal through Adult Hematopoiesis
-        link: "https://doi.org/10.1182/blood-2021-151090"
-        authors: Li, H., J. Ezike, A. Afanassiev, L. Greenstreet, et al.
-        conference: Blood, 2021.
-
-      - title: A single cell Arabidopsis root atlas reveals developmental trajectories in wild type and cell identity mutants
-        link: "https://www.sciencedirect.com/science/article/pii/S1534580722000338"
-        authors: Shahan R., C. Hsu, T.M. Nolan, B.J. Cole, I.W. Taylor, L. Greenstreet, et al.
-        conference: Developmental Cell, 2021.
-
-      - title: Developmental Single-cell transcriptomics in the Lytechinus variegatus Sea Urchin Embryo
-        link: "https://doi.org/10.1242/dev.198614"
-        authors: Massri, A.J., L. Greenstreet, A. Afanassiev, A. Berrio Escobar, et al.
-        conference: Development, 2021.
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
