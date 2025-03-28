@@ -46,6 +46,7 @@ projects:
             operations are poorly understood. Working with Dr. Carla Gomes, I helped develop deep learning methods to 
             detect aquaculture ponds from medium resolution satellite data, using temporal information, attention, and
             contrastive learning to deal with issues including label imbalance, label bias, and generalization to new regions.
+            <br></br>
         papers:
           - title: "Towards sustainable aquaculture in the Amazon"
             link: "https://doi.org/10.1038/s41893-024-01500-w"
