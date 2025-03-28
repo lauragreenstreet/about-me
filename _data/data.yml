@@ -13,6 +13,7 @@ sidebar:
 
     # Sidebar links
     email: leg86@cornell.edu
+    scholar: z2BkS4UAAAAJ
     linkedin: lauragreenstreet
     github: lauragreenstreet
     pdf: assets/images/resume.pdf
@@ -20,7 +21,7 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      I am a PhD student at Cornell developing AI and optimization methods with sustainability applications. Previously,
+      I am a PhD student at Cornell developing AI and optimization methods with applications in biology, including fishery sciences, ecology, and genomics. Previously,
       I worked with Dr. Claire Kremen to scale an analysis of functional connectivity to the global level and with
       Dr. Geoffrey Schiebinger to develop optimization methods for single-cell genomics.
 education:
@@ -56,7 +57,7 @@ projects:
 
 publications:
     title: Selected Publications
-    intro:
+    intro: 
     papers:
       - title: "DNA-GPS: A Theoretical Framework for Optics-Free Spatial Genomics"
         link: "https://doi.org/10.1016/j.cels.2023.08.005"
