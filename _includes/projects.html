@@ -31,6 +31,8 @@
       <div class="project-tagline">{{ project.tagline }}</div>
       {% endif %}
 
+    <br></br>
+
       {% for publication in project.papers %}
       <div class="item">
         {% if publication.link %}
@@ -45,6 +47,7 @@
 
     </div><!--//item-->
   {% endfor %}
+  <br></br>
 
 </section><!--//section-->
 {% endif %}
