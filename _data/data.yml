@@ -40,9 +40,9 @@ projects:
     assignments:
       - title: Mapping Aquaculture in the Amazon
         tagline: |
-            Aquaculture, or the farming or cultivation of aquatic organsims including fish, shrimp, and shellfish, is
-            growing radiply in the Amazon. Aquaculutre has the potential to create economic growth with lower land-use,
-            freshwater use, and carbon emissions than traditional livestock. However, the extent and live-cycle of these 
+            Aquaculture, or the farming or cultivation of aquatic organisms including fish and shellfish, has the potential to 
+            create economic growth with lower land-use, freshwater use, and carbon emissions than traditional livestock. 
+            Aquaculture is growing rapidly in the Amazon, however, the location, extent, and life-cycle of 
             operations are poorly understood. Working with Dr. Carla Gomes, I helped develop deep learning methods to 
             detect aquaculture ponds from medium resolution satellite data, using temporal information, attention, and
             contrastive learning to deal with issues including label imbalance, label bias, and generalization to new regions.
