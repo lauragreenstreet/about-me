@@ -38,6 +38,24 @@ projects:
     title: Projects
     intro: |
     assignments:
+      - title: Mapping Aquaculture in the Amazon
+        tagline: |
+            Aquaculture, or the farming or cultivation of aquatic organsims including fish, shrimp, and shellfish, is
+            growing radiply in the Amazon. Aquaculutre has the potential to create economic growth with lower land-use,
+            freshwater use, and carbon emissions than traditional livestock. However, the extent and live-cycle of these 
+            operations are poorly understood. Working with Dr. Carla Gomes, I helped develop deep learning methods to 
+            detect aquaculture ponds from medium resolution satellite data, using temporal information, attention, and
+            contrastive learning to deal with issues including label imbalance, label bias, and generalization to new regions.
+        papers:
+          - title: "DNA-GPS: A Theoretical Framework for Optics-Free Spatial Genomics"
+            link: "https://doi.org/10.1016/j.cels.2023.08.005"
+            authors: Greenstreet, L., A. Afanassiev, Y. Kijima, M. Heitz, S. Ishiguro, et al.
+            conference: Cell Systems, 2023.
+
+          - title: "Functional Connectivity of the World’s Protected Areas"
+            link: "https://doi.org/10.1126/science.abl8974"
+            authors: Brennan, A., R. Naidoo, L. Greenstreet, Z. Mehrabi, N. Ramankutty, C. Kremen
+            conference: Science, 2022.
       - title: Modelling Connectivity of Global Protected Areas
         tagline: |
             Large mammals often require more space than a single protected area and having connected protected areas
@@ -55,29 +73,6 @@ projects:
                   a manifold-learning approach to spatial transcriptomics that allows cellular positions to be reconstructed
                   without the use of imaging.
 
-publications:
-    title: Selected Publications
-    intro: 
-    papers:
-      - title: "DNA-GPS: A Theoretical Framework for Optics-Free Spatial Genomics"
-        link: "https://doi.org/10.1016/j.cels.2023.08.005"
-        authors: Greenstreet, L., A. Afanassiev, Y. Kijima, M. Heitz, S. Ishiguro, et al.
-        conference: Cell Systems, 2023.
-
-      - title: Functional Connectivity of the World’s Protected Areas
-        link: "https://doi.org/10.1126/science.abl8974"
-        authors: Brennan, A., R. Naidoo, L. Greenstreet, Z. Mehrabi, N. Ramankutty, C. Kremen
-        conference: Science, 2022.
-
-      - title: Efficient and Optimal Fixed-Time Regret with Two Experts
-        link: "https://doi.org/10.48550/arXiv.2203.07577"
-        authors: Greenstreet, L., N.J.A. Harvey, V. Sanches Portella
-        conference: ALT, 2022.
-
-      - title: Optimal transport analysis reveals trajectories in steady-state systems
-        link: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009466"
-        authors: Zhang, S., A. Afanassiev, L. Greenstreet, T. Matsumoto, G. Schiebinger
-        conference: PLOS Computational Biology, 2021.
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

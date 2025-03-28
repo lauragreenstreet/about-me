@@ -31,6 +31,18 @@
       <div class="project-tagline">{{ project.tagline }}</div>
       {% endif %}
 
+      {% for publication in project.papers %}
+      <div class="item">
+        {% if publication.link %}
+          <a href="{{ publication.link }}">{{ publication.title }}</a>
+        {% else %}
+          {{ publication.title }}
+        {% endif %}
+        <div class="publication-authors">{{ publication.authors }}</div>
+        <div class="publication-conference">{{ publication.conference }}</div>
+      </div><!--//item-->
+      {% endfor %}
+
     </div><!--//item-->
   {% endfor %}
 
