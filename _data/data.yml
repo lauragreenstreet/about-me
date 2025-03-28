@@ -46,7 +46,7 @@ projects:
             operations are poorly understood. Working with Dr. Carla Gomes, I helped develop deep learning methods to 
             detect aquaculture ponds from medium resolution satellite data, using temporal information, attention, and
             contrastive learning to deal with issues including label imbalance, label bias, and generalization to new regions.
-            <br></br>
+            <br />
         papers:
           - title: "Towards sustainable aquaculture in the Amazon"
             link: "https://doi.org/10.1038/s41893-024-01500-w"
@@ -57,6 +57,7 @@ projects:
             link: "https://www.cs.cornell.edu/gomes/pdf/2023_greenstreet_kdd_aquaculture.pdf"
             authors: Greenstreet, L, J. Fan, F. Siqueira Pacheco, Y. Bai, M. Eichemberger Ummus, et al. 
             conference: SigKDD, Fragile Earth Workshop, 2023.
+    
       - title: Modelling Connectivity of Global Protected Areas
         tagline: |
             Large mammals often require more space than a single protected area and having connected protected areas
@@ -64,7 +65,7 @@ projects:
             isolation. I worked with Dr. Claire Kremen on the first global study of
             resistance-based connectivity, which takes into account the many possible paths across a landscape. Our
             results identified areas that are critical for connectivity but remain unprotected and we compared
-            the overlap of these areas with existing conservation prioritization schemes.
+            the overlap of these areas with existing conservation prioritization schemes. <br />
         papers:
            - title: "Functional Connectivity of the World’s Protected Areas"
              link: "https://doi.org/10.1126/science.abl8974"
@@ -77,7 +78,7 @@ projects:
                   for methods to understand how development occurs in both space in time. I worked with Dr. Geoffrey Schiebinger
                   on projects applying optimal transport to understand developmental trajectories and helped develop GPS-Seq,
                   a manifold-learning approach to spatial transcriptomics that allows cellular positions to be reconstructed
-                  without the use of imaging.
+                  without the use of imaging. <br />
         papers:
           - title: "DNA-GPS: A Theoretical Framework for Optics-Free Spatial Genomics"
             link: "https://doi.org/10.1016/j.cels.2023.08.005"
