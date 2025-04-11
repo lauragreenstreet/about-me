@@ -28,7 +28,7 @@
       </div>
 
       {% if project.tagline %}
-      <div class="project-tagline">{{ project.tagline }}</div>
+      <div class="project-tagline">{{ project.tagline }}
       {% endif %}
 
       {% for publication in project.papers %}
@@ -42,6 +42,8 @@
         <div class="publication-conference">{{ publication.conference }}</div>
       </div><!--//item-->
       {% endfor %}
+
+    </div>
 
     </div><!--//item-->
   {% endfor %}
