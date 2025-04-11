@@ -22,7 +22,7 @@ career-profile:
     title: About Me
     summary: |
       I'm a PhD student at Cornell co-advised by David Shmoys and Andrea Lodi. My research focuses on developing AI and optimization methods with applications in biology, including fishery sciences, ecology, and genomics. Previously,
-      I worked with Dr. Carla Gomes on developing models to understand aquaculutre development from satellite imagery, with Dr. Claire Kremen to scale an analysis of functional connectivity to the global level, and with
+      I worked with Dr. Carla Gomes on developing models to understand aquaculture development from satellite imagery, with Dr. Claire Kremen to scale an analysis of functional connectivity to the global level, and with
       Dr. Geoffrey Schiebinger on optimization methods for single-cell genomics.
 education:
     - degree: PhD in Computer Science
