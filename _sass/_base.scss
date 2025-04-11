@@ -65,7 +65,7 @@ p {
         font-size: 16px;
         font-weight: 400;
         margin-top: 0;
-        margin-bottom: 20;
+        margin-bottom: 0;
     }
     .profile {
         margin-bottom: 15px;
@@ -205,6 +205,9 @@ p {
         margin-top: 15px;
         margin-bottom: 5px;
 	color: darken($theme-color, 15%);
+    }
+    .project-tagline {
+        margin-bottom: 20px;
     }
     .projects-section {
         .intro {
