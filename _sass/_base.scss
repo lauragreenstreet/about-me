@@ -197,6 +197,9 @@ p {
         margin-bottom: 10px;
         color: $text-grey;
     }
+    .spacing {
+        margin-bottom: 15px;
+    }
 
     .project-title {
         font-size: 16px;
@@ -205,9 +208,6 @@ p {
         margin-top: 15px;
         margin-bottom: 5px;
 	color: darken($theme-color, 15%);
-    }
-    .project-tagline {
-        margin-bottom: 20px;
     }
     .projects-section {
         .intro {
