@@ -21,12 +21,12 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-       I’m a PhD student at Cornell co-advised by \href{https://people.orie.cornell.edu/shmoys/}{David Shmoys} and 
-       \href{https://tech.cornell.edu/people/andrea-lodi/}{Andrea Lodi}. My research focuses on developing AI and 
+       I’m a PhD student at Cornell co-advised by <a href="https://people.orie.cornell.edu/shmoys/">David Shmoys</a> and 
+       <a href="https://tech.cornell.edu/people/andrea-lodi/">Andrea Lodi</a>. My research focuses on developing AI and 
        optimization methods with applications in biology, including fishery sciences, ecology, and genomics. 
-       Previously, I worked with \href{https://www.cs.cornell.edu/gomes/}{Carla Gomes} to develop methods to track 
-       aquaculture development from satellite imagery, with \href{https://ires.ubc.ca/claire-kremen/}{Claire Kremen} 
-       to scale an analysis of functional connectivity to the global level, and with \href{https://personal.math.ubc.ca/~geoff/}{Geoffrey Schiebinger} 
+       Previously, I worked with <a href="https://www.cs.cornell.edu/gomes/">Carla Gomes</a> to develop methods to track 
+       aquaculture development from satellite imagery, with <a href="https://ires.ubc.ca/claire-kremen/">Claire Kremen</a> 
+       to scale an analysis of functional connectivity to the global level, and with <a href="https://personal.math.ubc.ca/~geoff/">Geoffrey Schiebinger</a> 
        on optimization methods for single-cell genomics.
 education:
     - degree: PhD in Computer Science
