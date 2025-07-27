@@ -54,12 +54,12 @@ projects:
         papers:
           - title: "Towards sustainable aquaculture in the Amazon"
             link: "https://doi.org/10.1038/s41893-024-01500-w"
-            authors: F.S. Pacheco, S.A. Heilpern, C. DiLeo, ..., L. Greenstreet, et al.
+            authors: F.S. Pacheco, S.A. Heilpern, C. DiLeo, ..., L. Greenstreet, ..., et al.
             conference: Nature Sustainability, 2025.
 
           - title: "Detecting Aquaculture with Deep Learning in a Low-Data Setting"
             link: "https://www.cs.cornell.edu/gomes/pdf/2023_greenstreet_kdd_aquaculture.pdf"
-            authors: Greenstreet, L, J. Fan, F. Siqueira Pacheco, Y. Bai, M. Eichemberger Ummus, et al. 
+            authors: Greenstreet, L, J. Fan, F. Siqueira Pacheco, Y. Bai, M. Eichemberger Ummus, ..., et al. 
             conference: SigKDD, Fragile Earth Workshop, 2023.
     
       - title: Modelling Connectivity of Global Protected Areas
