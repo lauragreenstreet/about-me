@@ -23,7 +23,7 @@ career-profile:
     summary: |
        I’m a PhD student at Cornell co-advised by <a href="https://people.orie.cornell.edu/shmoys/">David Shmoys</a> and 
        <a href="https://tech.cornell.edu/people/andrea-lodi/">Andrea Lodi</a>. My research focuses on developing AI and 
-       optimization methods with applications in biology, including fishery sciences, ecology, and genomics. 
+       optimization methods with applications in transportation and resource management. 
        Previously, I worked with <a href="https://www.cs.cornell.edu/gomes/">Carla Gomes</a> to develop methods to track 
        aquaculture development from satellite imagery, with <a href="https://ires.ubc.ca/claire-kremen/">Claire Kremen</a> 
        to scale an analysis of functional connectivity to the global level, and with <a href="https://personal.math.ubc.ca/~geoff/">Geoffrey Schiebinger</a> 
@@ -42,6 +42,23 @@ projects:
     title: Projects
     intro: |
     assignments:
+      - title: Improving Bus Performance in New York City
+        tagline: Buses in New York city are slow and unreliable. Through a Cornell PiTech fellowship in collaboration with the non-profit 
+                 <a href="https://www.ridersalliance.org/">Riders Alliance</a>, I developed a simulation framework to learn factors most impact rider wait and trip times as well as model
+                 interventions to improve performance. Learn more about the project in <a href="https://www.pi.tech.cornell.edu/spotlight/what-causes-bus-bunching-in-nyc-and-how-can-we-combat-it">this blog post.</a>
+
+      - title: Optimization for Fisheries Management
+        tagline: Fishery income is highly variable, where low income years can heavily impact small communities and result in government interventions.
+                 Diversification in multiple fisheries can reduce income variability, but fisherman may not diversify due to cost, a lack of skills, or
+                 uncertainty about future risk. Working with fisheries ecologist <a href="https://cals.cornell.edu/people/suresh-sethi">Suresh Sethi</a>, 
+                 I developed an optimization framework to explore the relative impact of interventions targetted at each lever.
+                 
+        papers:
+          - title: "Reducing Income Variability in Natural Resource Portfolios via Integer Programming"
+            link: "https://link.springer.com/chapter/10.1007/978-3-031-95976-9_2"
+            authors: Greenstreet, L, Q. Shi, M. Grimson, F.W. Simon, Suresh A. Sethi, ..., et al.
+            conference: CPAIOR, 2025.
+
       - title: Mapping Aquaculture in the Amazon
         tagline: |
             Aquaculture, or the farming or cultivation of aquatic organisms including fish and shellfish, has the potential to 
