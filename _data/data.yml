@@ -59,7 +59,7 @@ projects:
         papers:
           - title: "Reducing Income Variability in Natural Resource Portfolios via Integer Programming"
             link: "https://link.springer.com/chapter/10.1007/978-3-031-95976-9_2"
-            authors: Greenstreet, L, Q. Shi, M. Grimson, F.W. Simon, Suresh A. Sethi, ..., et al.
+            authors: Greenstreet, L, Q. Shi, M. Grimson, F.W. Simon, S.A. Sethi, ..., et al.
             conference: CPAIOR, 2025.
 
       - title: Mapping Aquaculture in the Amazon
@@ -81,38 +81,6 @@ projects:
             link: "https://www.cs.cornell.edu/gomes/pdf/2023_greenstreet_kdd_aquaculture.pdf"
             authors: Greenstreet, L, J. Fan, F. Siqueira Pacheco, Y. Bai, M. Eichemberger Ummus, ..., et al. 
             conference: SigKDD, Fragile Earth Workshop, 2023.
-    
-      - title: Modelling Connectivity of Global Protected Areas
-        tagline: |
-            Large mammals often require more space than a single protected area and having connected protected areas
-            is key for gene dispersal. It is important to understand which protected areas are isolated or at risk of
-            isolation. I worked with Dr. Claire Kremen on the first global study of
-            resistance-based connectivity, which takes into account the many possible paths across a landscape. Our
-            results identified areas that are critical for connectivity but remain unprotected and we compared
-            the overlap of these areas with existing conservation prioritization schemes. <br></br>
-        papers:
-           - title: "Functional Connectivity of the World’s Protected Areas"
-             link: "https://doi.org/10.1126/science.abl8974"
-             authors: Brennan, A., R. Naidoo, L. Greenstreet, Z. Mehrabi, N. Ramankutty, C. Kremen
-             conference: Science, 2022.
-      - title: Spatial and Temporal Single-cell Transcriptomics
-        tagline: |
-                  Single-cell RNA-sequencing has allowed researchers to get snapshots of gene expression in individual cells.
-                  However, as the sequencing process is destructive and disassociates cells within a tissue, there is a need
-                  for methods to understand how development occurs in both space in time. I worked with Dr. Geoffrey Schiebinger
-                  on projects applying optimal transport to understand developmental trajectories and helped develop GPS-Seq,
-                  a manifold-learning approach to spatial transcriptomics that allows cellular positions to be reconstructed
-                  without the use of imaging. <br></br>
-        papers:
-          - title: "DNA-GPS: A Theoretical Framework for Optics-Free Spatial Genomics"
-            link: "https://doi.org/10.1016/j.cels.2023.08.005"
-            authors: Greenstreet, L., A. Afanassiev, Y. Kijima, M. Heitz, S. Ishiguro, et al.
-            conference: Cell Systems, 2023.
-
-          - title: Optimal transport analysis reveals trajectories in steady-state systems
-            link: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009466"
-            authors: Zhang, S., A. Afanassiev, L. Greenstreet, T. Matsumoto, G. Schiebinger
-            conference: PLOS Computational Biology, 2021.
 
 
 footer: >
