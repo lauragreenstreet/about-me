@@ -43,18 +43,18 @@ projects:
     intro: |
     assignments:
       - title: Improving Bus Performance in New York City
-        tagline: Buses in New York city are slow and unreliable. Through a Cornell PiTech fellowship in collaboration with the non-profit 
+        tagline: Buses in New York City are slow and unreliable. Through a Cornell Siegel PiTech fellowship in collaboration with the non-profit 
                  <a href="https://www.ridersalliance.org/">Riders Alliance</a>, I developed a simulation framework to discover what factors
-                 drive long rider wait and trip times as well as model and compare five proposed strategies.<br></br> 
+                 drive long rider wait and trip times and compare five proposed improvements.<br></br> 
                  
                  Learn more about the project in
                   <a href="https://www.pi.tech.cornell.edu/spotlight/what-causes-bus-bunching-in-nyc-and-how-can-we-combat-it">this blog post.</a>
 
       - title: Optimization for Fisheries Management
-        tagline: Fishery income is highly variable, where low income years can heavily impact small communities and result in government interventions.
-                 Diversification in multiple fisheries can reduce income variability, but fisherman may not diversify due to cost, a lack of skills, or
-                 uncertainty about future risk. Working with fisheries ecologist <a href="https://cals.cornell.edu/people/suresh-sethi">Suresh Sethi</a>, 
-                 I developed an optimization framework to explore the relative impact of interventions targeted at each lever.<br></br>
+        tagline: Fishery income is highly variable, where low income years can heavily impact small communities and result in millions of dollars of fedral support.
+                 Diversification in multiple fisheries can reduce income variability, but fisherman may not diversify due to financial costs, difficultly obtaining 
+                 necessary skills, or uncertainty about future risk. Working with fisheries ecologist <a href="https://cals.cornell.edu/people/suresh-sethi">Suresh Sethi</a>, 
+                 I developed an optimization framework to explore the relative impact of interventions targeted at each challenge.<br></br>
                  
         papers:
           - title: "Reducing Income Variability in Natural Resource Portfolios via Integer Programming"
