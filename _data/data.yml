@@ -43,9 +43,9 @@ projects:
     intro: |
     assignments:
       - title: Improving Bus Performance in New York City
-        tagline: Buses in New York City are slow and unreliable. Through a Cornell Siegel PiTech fellowship in collaboration with the non-profit 
-                 <a href="https://www.ridersalliance.org/">Riders Alliance</a>, I developed a simulation framework to discover what factors
-                 drive long rider wait and trip times and compare five proposed improvements.<br></br> 
+        tagline: Buses in New York City are slow and unreliable. Through a <a href="https://www.pi.tech.cornell.edu/pitech-phd-impact-fellowship">
+                 Cornell Siegel PiTech fellowship</a> in collaboration with the non-profit  <a href="https://www.ridersalliance.org/">Riders Alliance</a>, 
+                 I developed a simulation framework to discover what factors drive long rider wait and trip times and compare five proposed improvements.<br></br> 
                  
                  Learn more about the project in
                   <a href="https://www.pi.tech.cornell.edu/spotlight/what-causes-bus-bunching-in-nyc-and-how-can-we-combat-it">this blog post.</a>
