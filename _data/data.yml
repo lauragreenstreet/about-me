@@ -45,7 +45,7 @@ projects:
       - title: Improving Bus Performance in New York City
         tagline: New York City buses are slow and unreliable. Through a <a href="https://www.pi.tech.cornell.edu/pitech-phd-impact-fellowship">
                  Cornell Siegel PiTech fellowship</a>, I created a simulation framework using MTA Open Data to understand what factors drive poor performance 
-                 and compare interventions. We are now partnering with the MTA to use the simulation internally. While the project is ongoing, simulations 
+                 and compare interventions. I'm now partnering with the MTA to use the simulation internally. While the project is ongoing, simulations 
                  and optimization have shown controlling headways at the start of routes can result in signifcant improvements, even compared to strategies using
                  real-time data.<br></br> 
                  
