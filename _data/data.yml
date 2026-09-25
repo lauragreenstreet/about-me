@@ -22,9 +22,8 @@ career-profile:
     title: About Me
     summary: |
        I’m a PhD student at Cornell co-advised by <a href="https://people.orie.cornell.edu/shmoys/">David Shmoys</a> and 
-       <a href="https://tech.cornell.edu/people/andrea-lodi/">Andrea Lodi</a>. My research focuses on developing AI and 
-       optimization methods with applications in transportation and resource management. 
-       Previously, I worked with <a href="https://www.cs.cornell.edu/gomes/">Carla Gomes</a> to develop methods to track 
+       <a href="https://tech.cornell.edu/people/andrea-lodi/">Andrea Lodi</a>. I'm interested in building better decision making systems with optimization and machine learning 
+       methods, with applications in transportation and resource management. Previously, I worked with <a href="https://www.cs.cornell.edu/gomes/">Carla Gomes</a> to develop methods to track 
        aquaculture development from satellite imagery, with <a href="https://ires.ubc.ca/claire-kremen/">Claire Kremen</a> 
        to scale an analysis of functional connectivity to the global level, and with <a href="https://personal.math.ubc.ca/~geoff/">Geoffrey Schiebinger</a> 
        on optimization methods for single-cell genomics.
@@ -42,22 +41,18 @@ projects:
     title: Projects
     intro: |
     assignments:
-      - title: Improving Bus Performance in New York City
-        tagline: New York City buses are slow and unreliable. Through a <a href="https://www.pi.tech.cornell.edu/pitech-phd-impact-fellowship">
-                 Cornell Siegel PiTech fellowship</a>, I created a simulation framework using MTA Open Data to understand what factors drive poor performance 
-                 and compare interventions. I'm now partnering with the MTA to use the simulation internally. While the project is ongoing, simulations 
-                 and optimization have shown controlling headways at the start of routes can result in signifcant improvements, even compared to strategies using
-                 real-time data.<br></br> 
-                 
-                 Learn more about the project in
-                  <a href="https://www.pi.tech.cornell.edu/spotlight/what-causes-bus-bunching-in-nyc-and-how-can-we-combat-it">this blog post.</a>
+      - title: A Digital Twin to Improve NYC Buses
+        tagline: New York City buses are slow and unreliable. While transit systems collect large volumes of data on vehicles and riders, there is a gap in using this
+                 data to inform operations. As a <a href="https://www.pi.tech.cornell.edu/pitech-phd-impact-fellowship">Siegel PiTech Fellow</a>, I developed a digital
+                 twin using MTA Open Data that can simulate and compare a variety of interventions to understand what factors drive poor performance. As an MTA intern, 
+                 I tested the framework on internal data, finding that interventions targeting bus spacing are often more impactful than increasing speeds.<br></br> 
 
       - title: Optimization for Fisheries Managements
         tagline: Fishery income is highly variable, where low income years can heavily impact small communities and result in millions of dollars of government support.
                  Diversification in multiple fisheries can reduce income variability, but fisherman may not diversify due to financial costs, difficultly obtaining 
                  new skills, or uncertainty about future risk. Working with fisheries ecologist Suresh Sethi, I developed an optimization framework to explore 
-                 the relative impact of interventions targeted at each challenge. The optimization found there is potential to reduce income variance across the system
-                 by over 50% and significant benefits to reducing barriers to obtaining new skills.<br></br>
+                 the relative impact of interventions targeted at each challenge. The optimization found there is potential to reduce income variance
+                 by over 50% and highlighted vocational training as a policy lever.<br></br>
         papers:
           - title: "Reducing Income Variability in Natural Resource Portfolios via Integer Programming"
             link: "https://link.springer.com/chapter/10.1007/978-3-031-95976-9_2"
