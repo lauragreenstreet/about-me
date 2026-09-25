@@ -22,9 +22,8 @@ career-profile:
     title: About Me
     summary: |
        I’m a PhD student at Cornell co-advised by <a href="https://people.orie.cornell.edu/shmoys/">David Shmoys</a> and 
-       <a href="https://tech.cornell.edu/people/andrea-lodi/">Andrea Lodi</a>. My research focuses on developing AI and 
-       optimization methods with applications in transportation and resource management. 
-       Previously, I worked with <a href="https://www.cs.cornell.edu/gomes/">Carla Gomes</a> to develop methods to track 
+       <a href="https://tech.cornell.edu/people/andrea-lodi/">Andrea Lodi</a>. I'm interested in building better decision making systems with optimization and machine learning 
+       methods. Previously, I worked with <a href="https://www.cs.cornell.edu/gomes/">Carla Gomes</a> to develop methods to track 
        aquaculture development from satellite imagery, with <a href="https://ires.ubc.ca/claire-kremen/">Claire Kremen</a> 
        to scale an analysis of functional connectivity to the global level, and with <a href="https://personal.math.ubc.ca/~geoff/">Geoffrey Schiebinger</a> 
        on optimization methods for single-cell genomics.
@@ -42,7 +41,7 @@ projects:
     title: Projects
     intro: |
     assignments:
-      - title: A Digital Twin to Improve NYC Buses
+      - title: Improving Bus Performance in New York City
         tagline: New York City buses are slow and unreliable. While transit systems collect large volumes of data on vehicles and riders, there is a gap in using this
                  data to inform operations. As a <a href="https://www.pi.tech.cornell.edu/pitech-phd-impact-fellowship">Siegel PiTech Fellow</a>, I developed a digital
                  twin using MTA Open Data that can simulate and compare a variety of interventions to understand what factors drive poor performance. As an MTA intern, 
