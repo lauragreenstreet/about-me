@@ -64,7 +64,7 @@ projects:
             create economic growth with lower land-use, freshwater use, and carbon emissions than traditional livestock. 
             Aquaculture is growing rapidly in the Amazon. However, the location, extent, and life-cycle of 
             operations are poorly understood. Working with Dr. Carla Gomes, I helped develop deep learning methods to 
-            detect aquaculture ponds from medium resolution satellite data, using temporal information, attention, and
+            detect aquaculture ponds from satellite data, using temporal information, attention, and
             contrastive learning to deal with issues including label imbalance, label bias, and generalization to new regions. 
             The model was used by to understand land use change and associated carbon emissions in the Brazilian Amazon.
             <br></br>
