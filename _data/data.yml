@@ -44,7 +44,7 @@ projects:
         tagline: New York City buses are slow and unreliable. While transit systems collect large volumes of data on vehicles and riders, there is a gap in using this
                  data to inform operations. As a <a href="https://www.pi.tech.cornell.edu/pitech-phd-impact-fellowship">Siegel PiTech Fellow</a>, I developed a digital
                  twin using MTA Open Data that can compare a variety of interventions to understand design effective interventions and understand what factors drive performance. 
-                 As an MTA intern, I tested the framework on internal data, finding that targeting bus spacing is often more effective than faster speeds or boardings.<br></br> 
+                 This summer I worked with the MTA to test the framework on internal data, finding that targeting bus spacing is often more effective than faster speeds or boardings.<br></br> 
 
       - title: Optimization for Fisheries Managements
         tagline: Fishery income is highly variable, where low income years can heavily impact small communities and result in millions of dollars of government support.
