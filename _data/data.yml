@@ -21,7 +21,7 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-       I’m a PhD student at Cornell co-advised by <a href="https://people.orie.cornell.edu/shmoys/">David Shmoys</a> and 
+       I’m a computer science PhD student at Cornell co-advised by <a href="https://people.orie.cornell.edu/shmoys/">David Shmoys</a> and 
        <a href="https://tech.cornell.edu/people/andrea-lodi/">Andrea Lodi</a>. I'm interested in building better decision making systems with optimization and machine learning 
        methods. Previously, I worked with <a href="https://www.cs.cornell.edu/gomes/">Carla Gomes</a> to develop methods to track aquaculture development from satellite imagery, 
        with <a href="https://ires.ubc.ca/claire-kremen/">Claire Kremen</a> on the first global analysis of functional connectivity, and with <a href="https://personal.math.ubc.ca/~geoff/">Geoffrey Schiebinger</a> 
@@ -43,8 +43,8 @@ projects:
       - title: Improving Bus Performance in New York City
         tagline: New York City buses are slow and unreliable. While transit systems collect large volumes of data on vehicles and riders, there is a gap in using this
                  data to inform operations. As a <a href="https://www.pi.tech.cornell.edu/pitech-phd-impact-fellowship">Siegel PiTech Fellow</a>, I developed a digital
-                 twin using MTA Open Data that can simulate and compare a variety of interventions to understand what factors drive poor performance. As an MTA intern, 
-                 I tested the framework on internal data, finding that interventions targeting bus spacing are often more impactful than increasing speeds.<br></br> 
+                 twin using MTA Open Data that can compare a variety of interventions to understand design effective interventions and understand what factors drive performance. 
+                 As an MTA intern, I tested the framework on internal data, finding that targeting bus spacing is often more effective than faster speeds or boardings.<br></br> 
 
       - title: Optimization for Fisheries Managements
         tagline: Fishery income is highly variable, where low income years can heavily impact small communities and result in millions of dollars of government support.
